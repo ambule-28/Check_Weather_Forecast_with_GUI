@@ -51,11 +51,7 @@ pip install requests pillow
 4. Run all the cells to start the GUI.
 5. Enter a city name and click **"Get Weather"** to see the results.
 
----
 
-## 🖼️ Screenshot (Optional)
-
-_Add a screenshot here showing the GUI with sample output._
 
 ---
 
